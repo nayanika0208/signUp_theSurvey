@@ -1,3 +1,10 @@
 .App {
   text-align: center;
 }
+.contentContainer {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-start;
+	box-shadow: 0 .15vw .1vw rgba(0, 0, 0, 0.05);
+}
